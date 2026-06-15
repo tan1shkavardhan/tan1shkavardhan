@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tan1shkavardhan/tan1shkavardhan/main/assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/tan1shkavardhan/tan1shkavardhan/main/assets/sea.jpeg" width="100%" />
 
 # Tanishka Chouhan
 
