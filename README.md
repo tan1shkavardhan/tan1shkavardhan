@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tan1shkavardhan/tan1shkavardhan/main/assets/sea.jpeg" width="100%" />
+<img src="https://raw.githubusercontent.com/tan1shkavardhan/tan1shkavardhan/main/sea.jpeg" width="100%" />
 
 # Tanishka Chouhan
 
 Backend Developer • Building Systems • Learning Distributed Computing
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tan1shkavardhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-chouhan-5622173b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 </div>
 
