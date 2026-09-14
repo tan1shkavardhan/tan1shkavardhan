@@ -1,7 +1,5 @@
 # Tanishka Chouhan
 
-# Tanishka Chouhan
-
 Developer · Building projects · Exploring new technologies
 
 [LinkedIn](https://www.linkedin.com/in/tanishka-chouhan-5622173b2) · [Email](mailto:chouhantanishka25@gmail.com)
